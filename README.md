@@ -12,7 +12,7 @@ SortVisualizer is a Qt tool to make visualization of 10 different sorting algori
 - Bitonic sort
 - Insertion sort
 
-## Examples
+## Demonstration
 
 ### Quick sort:
 ![](examples/QuickSort.gif)
