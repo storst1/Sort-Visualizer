@@ -1,6 +1,6 @@
 # Sort-Visualizer
  
-SortVisualizer is a Qt tool to make visualization of 10 different sorting algorithms supporting: <br />
+SortVisualizer is a tool made with Qt to visualize 10 different sorting algorithms supporting: <br />
 - Bubble sort
 - Merge sort
 - Quick sort
